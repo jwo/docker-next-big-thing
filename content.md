@@ -1,3 +1,8 @@
+##Testing Lazygit
+
+
+----
+
  ## Week of
  ## May 4 - May 8
 ![](https://s3.amazonaws.com/uploads.hipchat.com/31349/1177900/RwDOG20P5wDWriJ/TIY-standard-logo.png)
@@ -7,11 +12,11 @@
 ##How Easy is it to change content?
 
 
----
+----
 
 
 ##How Easy is it to change content?
-###It's that wasy
+###It's that easy
 
 ----
 
