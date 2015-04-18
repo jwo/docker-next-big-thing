@@ -136,4 +136,7 @@ module.exports = function(grunt) {
 	// Run tests
 	grunt.registerTask( 'test', [ 'jshint', 'qunit' ] );
 
+	// change the tasks in the list to your production tasks
+	grunt.registerTask('heroku', ['compass:dist', 'autoprefixer', 'imagemin']);
+
 };
