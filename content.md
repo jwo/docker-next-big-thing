@@ -4,6 +4,11 @@
 
 ----
 
+##How Easy is it to change content?
+
+
+----
+
 ## Monday - May 4th
 
 - First Day of Class!
@@ -32,7 +37,7 @@ Content 2.1
 
 Content 3.1
 
----
+----
 
 ## Friday - May 8th
 
