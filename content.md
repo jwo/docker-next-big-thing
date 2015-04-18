@@ -2,7 +2,7 @@
  ## May 4 - May 8
 ![](https://s3.amazonaws.com/uploads.hipchat.com/31349/1177900/RwDOG20P5wDWriJ/TIY-standard-logo.png)
 
----
+----
 
 ## Monday - May 4th
 
@@ -14,19 +14,19 @@
 
 Note: This will only appear in the speaker notes window.
 
----
+----
 
 ## Tuesday - May 5th
 
-Content 1.2
+- 
 
----
+----
 
 ## Wednesday - May 6th
 
 Content 2.1
 
----
+----
 
 ## Thursday - May 7th
 
