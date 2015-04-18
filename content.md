@@ -7,6 +7,12 @@
 ##How Easy is it to change content?
 
 
+---
+
+
+##How Easy is it to change content?
+###It's that wasy
+
 ----
 
 ## Monday - May 4th
@@ -23,7 +29,10 @@ Note: This will only appear in the speaker notes window.
 
 ## Tuesday - May 5th
 
-- 
+- Thing one <!-- .element: class="fragment" data-fragment-index="1" -->
+- Thing two <!-- .element: class="fragment" data-fragment-index="2" -->
+ - Thing two.one <!-- .element: class="fragment" data-fragment-index="3" -->
+- Thing Three <!-- .element: class="fragment" data-fragment-index="4" -->
 
 ----
 
