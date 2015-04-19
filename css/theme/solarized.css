@@ -1,25 +1,14 @@
-<<<<<<< HEAD
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
-=======
->>>>>>> gh-pages
 /**
  * Solarized Light theme for reveal.js.
  * Author: Achim Staebler
  */
-<<<<<<< HEAD
-=======
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
->>>>>>> gh-pages
 @font-face {
   font-family: 'League Gothic';
   src: url("../../lib/font/league_gothic-webfont.eot");
   src: url("../../lib/font/league_gothic-webfont.eot?#iefix") format("embedded-opentype"), url("../../lib/font/league_gothic-webfont.woff") format("woff"), url("../../lib/font/league_gothic-webfont.ttf") format("truetype"), url("../../lib/font/league_gothic-webfont.svg#LeagueGothicRegular") format("svg");
   font-weight: normal;
   font-style: normal; }
-<<<<<<< HEAD
-
-=======
->>>>>>> gh-pages
 /**
  * Solarized colors by Ethan Schoonover
  */
@@ -42,11 +31,7 @@ body {
   color: #657b83; }
 
 ::selection {
-<<<<<<< HEAD
-  color: white;
-=======
   color: #fff;
->>>>>>> gh-pages
   background: #d33682;
   text-shadow: none; }
 
@@ -160,8 +145,5 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: #268bd2; }
-<<<<<<< HEAD
-=======
 
 /*# sourceMappingURL=solarized.css.map */
->>>>>>> gh-pages

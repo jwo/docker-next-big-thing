@@ -11,7 +11,7 @@ html * {
 @import url(http://fonts.googleapis.com/css?family=PT+Serif);
 
 // Theme settings
-$mainFont: "PT Serif", serif; 
+$mainFont: "PT Serif", serif;
 $mainFontSize: 36px;
 $mainColor: $base06;
 $backgroundColor: $base01;
@@ -54,7 +54,7 @@ body {
   font-weight: normal;
   letter-spacing: -0.02em;
   color: $mainColor;
-  background: url(https://s3.amazonaws.com/uploads.hipchat.com/31349/1177900/DHrwRD9oq3ZHZIs/tiy-logo.png) no-repeat bottom 15px left 15px;
+  background: url(https://files.slack.com/files-pri/T03E0467C-F04FCBVDV/tiiy-logo-500px-white.png) no-repeat bottom 15px left 15px;
 }
 
 ::selection {
