@@ -22,11 +22,11 @@
 
 ## Monday - May 4th
 
-- First Day of Class!
-- First group meeting
-- First Lecture at 10:30
+- Replaced Day of Class!
+- Replaced group meeting
+- Replaced Lecture at 10:30
 - Lunch at Black Lab
-- First Afternoon Lab
+- Replaced Afternoon Lab
 
 Note: This will only appear in the speaker notes window.
 
@@ -56,3 +56,7 @@ Content 3.1
 ## Friday - May 8th
 
 Content 3.2
+
+----
+
+#This is a Header
