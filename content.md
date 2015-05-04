@@ -1,8 +1,7 @@
-##Yet another test of Lazygit
-
 
 ----
 
+ ##Lazy Week
  ## Week of
  ## May 4 - May 8
 ![](https://s3.amazonaws.com/uploads.hipchat.com/31349/1177900/RwDOG20P5wDWriJ/TIY-standard-logo.png)
