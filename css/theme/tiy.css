@@ -11,15 +11,18 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-color: #303030; }
+  background-image: url("https://www.evernote.com/l/ABNIbi-Pb0hNyLIxW1cSjy2rVrO-tQ0BGQgB/image.png");
+  background-color: #303030;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center; }
 
 .reveal {
   font-family: "PT Serif", serif;
   font-size: 36px;
   font-weight: normal;
   letter-spacing: -0.02em;
-  color: #f5f5f5;
-  background: url(https://files.slack.com/files-pri/T03E0467C-F04FCBVDV/tiiy-logo-500px-white.png) no-repeat bottom 15px left 15px; }
+  color: #f5f5f5; }
 
 ::selection {
   color: #fff;
@@ -84,9 +87,9 @@ body {
  *********************************************/
 .reveal section img {
   margin: 15px 0px;
-  background: rgba(255, 255, 255, 0.12);
-  border: 1px solid #f5f5f5;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  background: transparent;
+  border: 0px solid #f5f5f5;
+  box-shadow: 0 0 0px rgba(0, 0, 0, 0.15);
   -webkit-transition: all .2s linear;
   -moz-transition: all .2s linear;
   -ms-transition: all .2s linear;

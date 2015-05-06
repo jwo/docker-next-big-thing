@@ -45,7 +45,12 @@ $selectionBackgroundColor: $base0E;
  *********************************************/
 
 body {
+  background-image: url("https://www.evernote.com/l/ABNIbi-Pb0hNyLIxW1cSjy2rVrO-tQ0BGQgB/image.png");
+  // background-image: url("https://www.evernote.com/l/ABON-Ut1IxtP7bbMvJXKD0zeb1YWgc6XALYB/image.png");
   background-color: $backgroundColor;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
 }
 
 .reveal {
@@ -54,7 +59,7 @@ body {
   font-weight: normal;
   letter-spacing: -0.02em;
   color: $mainColor;
-  background: url(https://files.slack.com/files-pri/T03E0467C-F04FCBVDV/tiiy-logo-500px-white.png) no-repeat bottom 15px left 15px;
+  // background: url(https://files.slack.com/files-pri/T03E0467C-F04FCBVDV/tiiy-logo-500px-white.png) no-repeat bottom 10px left 10px;
 }
 
 ::selection {
@@ -136,10 +141,10 @@ body {
 
 .reveal section img {
   margin: 15px 0px;
-  background: rgba(255,255,255,0.12);
-  border: 1px solid $mainColor;
+  background: transparent;
+  border: 0px solid $mainColor;
 
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 0px rgba(0, 0, 0, 0.15);
 
   -webkit-transition: all .2s linear;
      -moz-transition: all .2s linear;

@@ -1,61 +1,42 @@
 
-----
-
- ##Lazy Week
  ## Week of
  ## May 4 - May 8
 ![](https://s3.amazonaws.com/uploads.hipchat.com/31349/1177900/RwDOG20P5wDWriJ/TIY-standard-logo.png)
 
 ----
 
-##How Easy is it to change content?
+##Weekly Announcements
+
+- Monday May 4 - Welcome to The Iron Yard! <!-- .element: class="fragment" data-fragment-index="1" -->
+- Friday May 8 - Sign up for Houston Hackathon <!-- .element: class="fragment" data-fragment-index="2" -->
+- Friday May 8 - Iron Pints™ <!-- .element: class="fragment" data-fragment-index="3" -->
+- Monday May 11 - JP Morgan Visit  <!-- .element: class="fragment" data-fragment-index="4" --> 
+
+
 
 
 ----
 
+##Guest Lecture
 
-##How Easy is it to change content?
-###It's that easy
+###Friday May 8 
 
-----
+<br>
 
-## Monday - May 4th
-
-- Replaced Day of Class!
-- Replaced group meeting
-- Replaced Lecture at 10:30
-- Lunch at Black Lab
-- Replaced Afternoon Lab
-
-Note: This will only appear in the speaker notes window.
+###Efrain Ayllon and Kevin Cruz
 
 ----
 
-## Tuesday - May 5th
+##Iron Pints™ 
 
-- Thing one <!-- .element: class="fragment" data-fragment-index="1" -->
-- Thing two <!-- .element: class="fragment" data-fragment-index="2" -->
- - Thing two.one <!-- .element: class="fragment" data-fragment-index="3" -->
-- Thing Three <!-- .element: class="fragment" data-fragment-index="4" -->
+## The Black Lab 
 
-----
+<br>
 
-## Wednesday - May 6th
+## 3:00 - 4:00
 
-Content 2.1
+ALL ARE WELCOME!
 
 ----
 
-## Thursday - May 7th
-
-Content 3.1
-
-----
-
-## Friday - May 8th
-
-Content 3.2
-
-----
-
-#This is a Header
+![](http://itsgr9.com/wp-content/uploads/2013/06/Albert-Einstein-1.jpg) <!--  -->
