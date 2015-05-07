@@ -1,6 +1,6 @@
 
  ## May 4 - May 8
-![](https://lh3.googleusercontent.com/YGPPVF6cWcJD20OitwR-ydU4YOqex6P5bkaJmNoLBw8lV6ZsEk7pnfTL162DPeV11EHTsOvlSWTSrBw=w1416-h658)
+![](/images/logo_big.png)
 
 ----
 
