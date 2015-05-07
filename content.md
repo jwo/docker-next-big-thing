@@ -1,7 +1,6 @@
 
- ## Week of
  ## May 4 - May 8
-![](https://s3.amazonaws.com/uploads.hipchat.com/31349/1177900/RwDOG20P5wDWriJ/TIY-standard-logo.png)
+![](https://files.slack.com/files-pri/T03E0467C-F04EQCZMQ/tiiy-logo-500px-white.png)
 
 ----
 
@@ -17,9 +16,9 @@
 
 ----
 
-##Guest Lecture
+##First Guest Lecture
 
-###Friday May 8 
+###Friday May 8 at 10am
 
 <br>
 

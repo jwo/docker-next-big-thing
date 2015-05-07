@@ -11,7 +11,7 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-image: url("https://www.evernote.com/l/ABNIbi-Pb0hNyLIxW1cSjy2rVrO-tQ0BGQgB/image.png");
+  background-image: url("https://www.evernote.com/l/ABMXVjMUjcdMmpY3g8JtwdDwR1V9YJJCKY8B/image.png");
   background-color: #303030;
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,7 +22,8 @@ body {
   font-size: 36px;
   font-weight: normal;
   letter-spacing: -0.02em;
-  color: #f5f5f5; }
+  color: #f5f5f5;
+  background: url(https://files.slack.com/files-pri/T03E0467C-F04FCBVDV/tiiy-logo-500px-white.png) no-repeat bottom 10px right 10px; }
 
 ::selection {
   color: #fff;
