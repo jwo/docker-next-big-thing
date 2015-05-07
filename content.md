@@ -1,6 +1,6 @@
 
  ## May 4 - May 8
-![](https://files.slack.com/files-pri/T03E0467C-F04EQCZMQ/tiiy-logo-500px-white.png)
+![](https://lh3.googleusercontent.com/YGPPVF6cWcJD20OitwR-ydU4YOqex6P5bkaJmNoLBw8lV6ZsEk7pnfTL162DPeV11EHTsOvlSWTSrBw=w1416-h658)
 
 ----
 
@@ -26,12 +26,13 @@
 
 ----
 
-##Iron Pints™ 
+#Iron Pints™ 
 
 ## The Black Lab 
 
 <br>
-
+## Friday May 8
+<br>
 ## 3:00 - 4:00
 
 ALL ARE WELCOME!
