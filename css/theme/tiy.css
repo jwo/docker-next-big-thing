@@ -14,7 +14,7 @@ body {
   background-image: url("https://www.evernote.com/l/ABNIbi-Pb0hNyLIxW1cSjy2rVrO-tQ0BGQgB/image.png");
   background-color: #303030;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
   background-position: center; }
 
 .reveal {
