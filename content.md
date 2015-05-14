@@ -23,7 +23,7 @@
 
 <br>
 
-###StackWave
+![](http://stackwave.com/img/pictures/stackwave_logo.png)
 
 
 ----
