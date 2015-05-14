@@ -1,41 +1,30 @@
 
- ## May 4 - May 8
+ ## May 11 - May 15
 ![](/images/logo_big.png)
 
 ----
 
 ##Weekly Announcements
 
-- Monday May 4 - Welcome to The Iron Yard! <!-- .element: class="fragment" data-fragment-index="1" -->
-- Friday May 8 - Sign up for Houston Hackathon <!-- .element: class="fragment" data-fragment-index="2" -->
-- Friday May 8 - Iron Pints™ <!-- .element: class="fragment" data-fragment-index="3" -->
 - Monday May 11 - JP Morgan Visit  <!-- .element: class="fragment" data-fragment-index="4" --> 
-
+- Thursday May 14 - Justin Richards Py Talk  <!-- .element: class="fragment" data-fragment-index="4" --> 
 
 
 
 ----
 
-##First Guest Lecture
+##Guest Lecture
 
-###Friday May 8 at 10am
+###Friday May 8 at 11am
+
+<br>
+
+###Daniel Goldman
 
 <br>
 
-###Efrain Ayllon and Kevin Cruz
+###StackWave
 
-----
-
-#Iron Pints™ 
-
-## The Black Lab 
-
-<br>
-## Friday May 8
-<br>
-## 3:00 - 4:00
-
-ALL ARE WELCOME!
 
 ----
 
