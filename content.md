@@ -6,10 +6,12 @@
 
 ##Weekly Announcements
 
-<!-- - Monday May 11 - JP Morgan Visit  <!-- .element: class="fragment" data-fragment-index="1" --> 
-- Thursday May 14 - Justin Richards Py Talk  <!-- .element: class="fragment" data-fragment-index="2" -->  -->
+- Friday May 22 - Portfolio Talk for Rails Class  <!-- .element: class="fragment" data-fragment-index="1" --> 
+- Friday May 22 - Front End - Have you started your Portfolios?  <!-- .element: class="fragment" data-fragment-index="2" -->
 
+----
 
+![](https://www.irononsticker.com/images/2013/09/10/PROGRAMMER%20DICTIONARY%20DEFINITION%20T%20SHIRT%20IRON%20ON%20TRANSFER.png)
 
 ----
 
@@ -19,7 +21,7 @@
 
 <br>
 
-###JB Birkholz
+###Jonathon "JB" Birkholz
 
 <br>
 
@@ -28,4 +30,4 @@
 
 ----
 
-![](http://itsgr9.com/wp-content/uploads/2013/06/Albert-Einstein-1.jpg) <!--  -->
+![](http://image.slidesharecdn.com/softwaredevelopmentphilosophiesv1-140822023734-phpapp01/95/software-development-philosophies-v1-2-638.jpg?cb=1408675119) <!--  -->
