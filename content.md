@@ -6,8 +6,9 @@
 
 ##Weekly Announcements
 
-- Friday May 22 - Portfolio Talk for Rails Class  <!-- .element: class="fragment" data-fragment-index="1" --> 
-- Friday May 22 - Front End - Have you started your Portfolios?  <!-- .element: class="fragment" data-fragment-index="2" -->
+- Tuesday May 19 - Ruby Brigade Meetup  <!-- .element: class="fragment" data-fragment-index="1" --> 
+- Friday May 22 - Portfolio Talk for Rails Class  <!-- .element: class="fragment" data-fragment-index="2" --> 
+- Friday May 22 - Front End - Have you started your Portfolios?  <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ----
 
@@ -21,7 +22,7 @@
 
 <br>
 
-###Jonathon "JB" Birkholz
+###Jonathan "JB" Birkholz
 
 <br>
 
