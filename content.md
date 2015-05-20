@@ -32,3 +32,7 @@
 ----
 
 ![](http://image.slidesharecdn.com/softwaredevelopmentphilosophiesv1-140822023734-phpapp01/95/software-development-philosophies-v1-2-638.jpg?cb=1408675119) <!--  -->
+
+----
+
+![](https://www.evernote.com/l/ABPehZjR5UFE9ZuO1pHVLc4fOLlnXsnpJ4YB/image.png)
