@@ -1,14 +1,14 @@
 
- ## May 18 - May 22
+ ## May 25 - May 29
 ![](/images/logo_big.png)
 
 ----
 
 ##Weekly Announcements
 
-- Tuesday May 19 - Ruby Brigade Meetup  <!-- .element: class="fragment" data-fragment-index="1" --> 
-- Friday May 22 - Portfolio Talk for Rails Class  <!-- .element: class="fragment" data-fragment-index="2" --> 
-- Friday May 22 - Front End - Have you started your Portfolios?  <!-- .element: class="fragment" data-fragment-index="3" -->
+- Monday May 25 - Memorial Day - Building will be Closed  <!-- .element: class="fragment" data-fragment-index="1" -->
+- Thursday May 28 - Ember Meetup @ The Iron Yard  <!-- .element: class="fragment" data-fragment-index="2" -->
+- Friday May 29 - Portfolios!!  <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ----
 
@@ -18,20 +18,26 @@
 
 ##Guest Lecture
 
-###Friday May 22 at 10am
+###Friday May 29 at 10am
 
 <br>
 
-###Jonathan "JB" Birkholz
+###Roby Fitzhenry - Always Creative
 
 <br>
 
-![](https://sportstradexassets.s3.amazonaws.com/assets/logos/SportsTradex3-7cedd63c2b6f9faea4503f9510f48c63.png)
+![](https://pbs.twimg.com/profile_images/590668009842335745/LeMkMX9Z.jpg)
 
 
 ----
 
-![](http://image.slidesharecdn.com/softwaredevelopmentphilosophiesv1-140822023734-phpapp01/95/software-development-philosophies-v1-2-638.jpg?cb=1408675119) <!--  -->
+![](http://www.commitstrip.com/wp-content/uploads/2015/05/Strip-Troller-le-stagiaire-650-finalenglish.jpg) <!--  -->
+
+----
+
+##Have a Great Memorial Day!!
+
+![](https://slack-files.com/files-pub/T03FAV5N3-F0511GK1K-6246ccb108/grill.gif)
 
 ----
 
