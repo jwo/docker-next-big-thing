@@ -35,9 +35,9 @@
 
 ----
 
-##Have a Great Memorial Day!!
+##Had a Great Memorial Day?
 
-![](https://slack-files.com/files-pub/T03FAV5N3-F0511GK1K-6246ccb108/grill.gif)
+![](http://i.giphy.com/sGPxb72KvbojK.gif)
 
 ----
 
