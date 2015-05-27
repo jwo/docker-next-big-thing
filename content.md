@@ -8,8 +8,7 @@
 
 - Monday May 25 - Memorial Day - Building will be Closed  <!-- .element: class="fragment" data-fragment-index="1" -->
 - Wednesday May 27 - Brisket nom nom nom nom nom  <!-- .element: class="fragment" data-fragment-index="2" -->
-- Thursday May 28 - Ember Meetup @ The Iron Yard  <!-- .element: class="fragment" data-fragment-index="3" -->
-- Friday May 29 - Portfolios!!  <!-- .element: class="fragment" data-fragment-index="4" -->
+- Friday May 29 - Portfolios!!  <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ----
 
