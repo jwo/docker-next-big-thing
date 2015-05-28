@@ -26,7 +26,7 @@
 
 <br>
 
-![](https://pbs.twimg.com/profile_images/590668009842335745/LeMkMX9Z.jpg)
+![](https://www.evernote.com/l/ABOpl2gnlYBICoyXMlmRiDgPcBPhQr-PCgIB/image.png)
 
 
 ----
