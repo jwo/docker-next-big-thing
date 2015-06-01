@@ -1,43 +1,37 @@
 
- ## May 25 - May 29
+ ## June 1 - June 5
 ![](/images/logo_big.png)
 
 ----
 
 ##Weekly Announcements
 
-- Monday May 25 - Memorial Day - Building will be Closed  <!-- .element: class="fragment" data-fragment-index="1" -->
-- Wednesday May 27 - Brisket nom nom nom nom nom  <!-- .element: class="fragment" data-fragment-index="2" -->
-- Friday May 29 - Portfolios!!  <!-- .element: class="fragment" data-fragment-index="3" -->
+- Tuesday June 2 - Hands-On Hack Night @ The Iron Yard  <!-- .element: class="fragment" data-fragment-index="1" -->
+- Wednesday June 3 - Poetic Field Trip (Meet there @ 12:20)  <!-- .element: class="fragment" data-fragment-index="2" -->
+- Friday June 5 - Iron Pints™ and Board Games (2:00 - 4:00)  <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ----
 
-![](https://www.irononsticker.com/images/2013/09/10/PROGRAMMER%20DICTIONARY%20DEFINITION%20T%20SHIRT%20IRON%20ON%20TRANSFER.png)
+![](/images/programmer.png)
 
 ----
 
 ##Guest Lecture
 
-###Friday May 29 at 10am
+###Friday June 5 at 10am
 
 <br>
 
-###Roby Fitzhenry - Always Creative
+###Amanda Shih - OpenStax
 
 <br>
 
-![](https://www.evernote.com/l/ABOpl2gnlYBICoyXMlmRiDgPcBPhQr-PCgIB/image.png)
+![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/1f7/122/3b8f65d.jpg)
 
 
 ----
 
-![](http://www.commitstrip.com/wp-content/uploads/2015/05/Strip-Troller-le-stagiaire-650-finalenglish.jpg) <!--  -->
-
-----
-
-##Had a Great Memorial Day?
-
-![](http://i.giphy.com/sGPxb72KvbojK.gif)
+![](http://www.commitstrip.com/wp-content/uploads/2015/05/Strip-Projet-abandonn%C3%A9-nostalgie-650-finalenglish12.jpg) <!--  -->
 
 ----
 
