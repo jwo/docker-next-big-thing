@@ -6,10 +6,10 @@
 
 ##Weekly Announcements
 
-- Tuesday June 2 - Hands-On Hack Night @ The Iron Yard  <!-- .element: class="fragment" data-fragment-index="1" -->
-- Wednesday June 3 - Poetic Field Trip (Meet there @ 12:20)  <!-- .element: class="fragment" data-fragment-index="2" -->
-- Thursday June 4 - EmberJS Houston 7pm @ The Iron Yard <!-- .element: class="fragment" data-fragment-index="3" -->
-- Friday June 5 - Iron Pints™ and Board Games (2:00 - 4:00)  <!-- .element: class="fragment" data-fragment-index="4" -->
+###- Tuesday June 2 - Hands-On Hack Night @ The Iron Yard  <!-- .element: class="fragment" data-fragment-index="1" -->
+###- Wednesday June 3 - Poetic Field Trip (Meet there @ 12:20)  <!-- .element: class="fragment" data-fragment-index="2" -->
+###- Thursday June 4 - EmberJS Houston 7pm @ The Iron Yard <!-- .element: class="fragment" data-fragment-index="3" -->
+###- Friday June 5 - Iron Pints™ and Board Games (2:00 - 4:00)  <!-- .element: class="fragment" data-fragment-index="4" -->
 
 ----
 
