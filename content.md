@@ -4,7 +4,7 @@
 
 ----
 
-##Weekly Announcements
+##Announcements
 
 - Tuesday June 2 - Hands-On Hack Night @ The Iron Yard  <!-- .element: class="fragment" data-fragment-index="1" -->
 - Wednesday June 3 - Poetic Field Trip (Meet there @ 12:20)  <!-- .element: class="fragment" data-fragment-index="2" -->
