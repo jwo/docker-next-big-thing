@@ -32,6 +32,16 @@
 
 ----
 
+
+![](https://www.evernote.com/l/ABMoU7ZYzPpLXKnfDZoDmJuLLAmLVg2V5hQB/image.png)
+###Tuesday, June 2, 2015
+###5:30 PM to 8:00 PM 
+###@ The Iron Yard
+
+
+
+----
+
 ![](http://www.commitstrip.com/wp-content/uploads/2015/05/Strip-Projet-abandonn%C3%A9-nostalgie-650-finalenglish12.jpg) <!--  -->
 
 ----
