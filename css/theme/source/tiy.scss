@@ -12,7 +12,7 @@ html * {
 
 // Theme settings
 $mainFont: "PT Serif", serif;
-$mainFontSize: 36px;
+$mainFontSize: 46px;
 $mainColor: $base06;
 $backgroundColor: $base01;
 
@@ -20,7 +20,7 @@ $backgroundColor: $base01;
 $headingMargin: 0 0 20px 0;
 $headingFont: "PT Serif", sans-serif;
 $headingColor: $base07;
-$headingLineHeight: 0.9em;
+$headingLineHeight: 1.2em;
 $headingLetterSpacing: 0.02em;
 $headingTextShadow: none;
 $headingTextTransform: none;
@@ -223,4 +223,9 @@ body {
  *********************************************/
 .reveal .slide-number {
   color: $linkColor;
+}
+
+
+li.fragment {
+  margin-bottom: 0.5em;
 }
