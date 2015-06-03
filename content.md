@@ -27,7 +27,7 @@
 
 <br>
 
-![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/1f7/122/3b8f65d.jpg)
+![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/1f7/122/3b8f65d.jpg) <!-- .element: class="circle"  -->
 
 
 ----
