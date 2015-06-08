@@ -6,7 +6,7 @@
 
 ##Announcements
 
-- Wednesday June 10 - Portfolio Checkin with DoTron (send me the links on Trello) <!-- .element: class="fragment" data-fragment-index="1" -->
+- Wednesday June 10 - Portfolio Checkin with DoTron™  <!-- .element: class="fragment" data-fragment-index="1" -->
 - Friday June 12 - Half Way Celebration BBQ (12:30) <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ----
@@ -29,7 +29,7 @@
 
 
 ----
-##Half Way Celebration
+##Celbrate
 
 - Friday marks the half way point of the class. Let's celebrate with grilled items!
 
