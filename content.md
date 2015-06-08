@@ -29,7 +29,7 @@
 
 
 ----
-##Celbrate
+##Celebrate
 
 - Friday marks the half way point of the class. Let's celebrate with grilled items!
 
