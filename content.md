@@ -6,8 +6,9 @@
 
 ##Announcements
 
-- Wednesday June 10 - Portfolio Checkin with DoTron™  <!-- .element: class="fragment" data-fragment-index="1" -->
-- Friday June 12 - Half Way Celebration BBQ (12:30) <!-- .element: class="fragment" data-fragment-index="2" -->
+- Tuesday June 9 - Houston Ruby Brigade Meetup @TIY 7:00pm  <!-- .element: class="fragment" data-fragment-index="1" -->
+- Wednesday June 10 - Portfolio Checkin with DoTron™  <!-- .element: class="fragment" data-fragment-index="2" -->
+- Friday June 12 - Half Way Celebration BBQ (12:30) <!-- .element: class="fragment" data-fragment-index="3" -->
 
 ----
 
