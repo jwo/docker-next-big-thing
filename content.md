@@ -1,15 +1,13 @@
 
- ## June 1 - June 5
+ ## June 8 - June 12
 ![](/images/logo_big.png)
 
 ----
 
 ##Announcements
 
-- Tuesday June 2 - Hands-On Hack Night @ The Iron Yard  <!-- .element: class="fragment" data-fragment-index="1" -->
-- Wednesday June 3 - Poetic Field Trip (Meet there @ 12:20)  <!-- .element: class="fragment" data-fragment-index="2" -->
-- Thursday June 4 - EmberJS Houston 7pm @ The Iron Yard <!-- .element: class="fragment" data-fragment-index="3" -->
-- Friday June 5 - Iron Pints™ and Board Games (2:00 - 4:00)  <!-- .element: class="fragment" data-fragment-index="4" -->
+- Wednesday June 10 - Portfolio Checkin with DoTron (send me the links on Trello) <!-- .element: class="fragment" data-fragment-index="1" -->
+- Friday June 12 - Half Way Celebration BBQ (12:30) <!-- .element: class="fragment" data-fragment-index="2" -->
 
 ----
 
@@ -19,30 +17,27 @@
 
 ##Guest Lecture
 
-###Friday June 5 at 10am
+###Friday June 12 at 10am
 
 <br>
 
-###Amanda Shih - OpenStax
+###Mohammad Azam - Blinds.com
 
 
 
-![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/1/000/1f7/122/3b8f65d.jpg) <!-- .element: class="circle"  -->
-
-
-----
-
-
-![](https://www.evernote.com/l/ABMoU7ZYzPpLXKnfDZoDmJuLLAmLVg2V5hQB/image.png)
-###Tuesday, June 2, 2015
-###5:30 PM to 8:00 PM 
-###@ The Iron Yard
-
+![](https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/8/005/045/276/0bd5d68.jpg) <!-- .element: class="circle"  -->
 
 
 ----
+##Half Way Celebration
 
-![](http://www.commitstrip.com/wp-content/uploads/2015/05/Strip-Projet-abandonn%C3%A9-nostalgie-650-finalenglish12.jpg) <!--  -->
+- Friday marks the half way point of the class. Let's celebrate with grilled items!
+
+![](http://i.giphy.com/9QtLqr4MGjqkU.gif)
+
+----
+
+![](http://www.commitstrip.com/wp-content/uploads/2015/06/Strip-Plus-geek-que-geek-650-finalenglish.jpg) <!--  -->
 
 ----
 
