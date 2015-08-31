@@ -1,7 +1,3 @@
-/**
- * TIY theme for reveal.js.
- * Author: Clinton Dreisbach
- */
 @import url(http://fonts.googleapis.com/css?family=PT+Serif);
 html * {
   color-profile: sRGB;
@@ -11,19 +7,28 @@ html * {
  * GLOBAL STYLES
  *********************************************/
 body {
-  background-image: url(/images/bg1.png);
-  background-color: #303030;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center; }
+  background: #BDC3C7 radial-gradient(circle farthest-corner at center center , #BDC3C7 0%, #95A5A6 100%) repeat scroll 0% 0%;}
+
+}
 
 .reveal {
-  font-family: "PT Serif", serif;
   font-size: 46px;
   font-weight: normal;
   letter-spacing: -0.02em;
-  color: #f5f5f5;
-  background: url(/images/logo_small.png) no-repeat bottom 10px right 10px; }
+  color: #2C3E50;
+}
+
+  .reveal {
+    background: url(http://photos1.meetupstatic.com/photos/event/b/6/f/a/global_161926842.jpeg) no-repeat bottom 60px right 10px;
+
+    color: #2C3E50;
+  }
+
+  .reveal, .reveal p, .reveal ul, .reveal ol {
+    font-family: "PT Serif", serif;
+  }
+
+
 
 ::selection {
   color: #fff;
@@ -38,9 +43,10 @@ body {
 .reveal h3,
 .reveal h4,
 .reveal h5,
-.reveal h6 {
+.reveal h6,
+nav {
   margin: 0 0 20px 0;
-  color: #ffffff;
+  color: #2C3E50;
   font-weight: bold;
   font-family: "PT Serif", sans-serif;
   line-height: 1.2em;
@@ -66,7 +72,7 @@ body {
  * LINKS
  *********************************************/
 .reveal a:not(.image) {
-  color: #6fb3d2;
+  color: #2C3E50;
   text-decoration: none;
   -webkit-transition: color .15s ease;
   -moz-transition: color .15s ease;
@@ -80,7 +86,7 @@ body {
   border: none; }
 
 .reveal .roll span:after {
-  color: #fff;
+  color: #2C3E50;
   background: #3a92ba; }
 
 /*********************************************
@@ -170,5 +176,35 @@ li.fragment {
   border-radius: 99em;
   box-shadow: 0 3px 2px rgba(0, 0, 0, 0.3);
   -webkit-filter: drop-shadow(5px 5px 5px #222); }
+
+
+  .reveal ol {
+    margin-bottom: 2rem;
+  }
+  .reveal ul {
+    list-style: none;
+    text-align: center;
+    margin: 0;
+  }
+  .reveal ul  li {
+    margin-bottom: 1.5rem;
+  }
+
+  nav {
+    background: #2C3E50;
+    padding: 1rem;
+    padding-left: 10rem;
+    color: #ffffff;
+  }
+  nav .left {
+    width: 40%;
+    display: inline-block;
+
+  }
+  nav .right {
+    width: 40%;
+    display: inline-block;
+    text-align: right;
+  }
 
 /*# sourceMappingURL=tiy.css.map */

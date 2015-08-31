@@ -4,7 +4,7 @@
 	<head>
 		<meta charset="utf-8">
 
-		<title>The Iron Yard </title>
+		<title>Docker - next big thing ; By @jwo for HoustonRB</title>
 
 		<meta name="description" content="A framework for easily creating beautiful presentations using HTML">
 		<meta name="author" content="Hakim El Hattab">
@@ -23,12 +23,6 @@
 
 		<!-- For syntax highlighting -->
 		<link rel="stylesheet" href="lib/css/zenburn.css">
-
-<script type="text/javascript">
-	setTimeout(function(){
-		window.location.reload();
-	}, 1000 * 60 * 10)
-</script>
 
 
 
@@ -50,11 +44,20 @@
 
 	<body>
 
+		<nav>
+			<div class="left">
+				Docker - next big thing
+			</div>
+			<div class="right">
+				Jesse Wolgamott
+			</div>
+		</nav>
+
 		<div class="reveal">
 			<div class="slides">
 
 				<!-- Use external markdown resource, separate slides by three newlines; vertical slides by two newlines -->
-				<section data-markdown="/content.md" data-separator="----" data-vertical="---"></section>
+				<section data-markdown="/content.md" data-separator="---" data-vertical="----"></section>
 
 			</div>
 		</div>
@@ -68,12 +71,12 @@
 			// https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
 				controls: false,
-				progress: false,
+				progress: true,
 				history: true,
-				center: false,
-				autoSlide: 8000,
-				loop: true,
-				slideNumber: false,
+				center: true,
+				autoSlide: false,
+				loop: false,
+				slideNumber: true,
 				autoSlideStoppable: false,
 
 				theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
